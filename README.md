@@ -11,9 +11,9 @@
 
 ![Logo](https://www.careerguide.com/career/wp-content/uploads/2020/03/data-analysis.gif)
 ## About Me
-👩‍💻 I'm currently working on migration of Tableau reports and dashboards to Microsoft Power BI maintaining 100% data accuracy and data validation.
+👩‍💻 Currently working on migration of Tableau reports and dashboards to Microsoft Power BI maintaining 100% data accuracy and data validation.
 
-🧠 I'm currently learning Data Warehouring and Big data concepts.
+🧠 Currently learning Data Warehouring and Big data concepts.
 
 
 
